@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Pharmacie Rabii",
+        "address": "via comoedia, 5, 22016 Tremezzina CO, Italy",
+        "lat": "33.258523",
+        "lng": "-8.514164"
+    },
+    {
+        "name": "Pharmacie Ibn Sina",
+        "address": "زنقة إبن سينا, El Jadida, El Jadida, Maroc ",
+        "lat": "33.259071",
+        "lng": "-8.51153"
+    },
+    {
+        "name": "Pharmacie Bouhafid",
+        "address": "شارع الفقيه محمد الريفي, الجديدة, الجديدة, Maroc",
+        "lat": "33.255951",
+        "lng": "-8.511461"
+    },
+    {
+        "name": "Villa di Fiorano",
+        "address": "Via Appia Antica, 400, 00178 Roma RM, Italy",
+        "lat": "41.7991554",
+        "lng": "12.573976"
+    },
+    {
+        "name": "Hotel Danieli",
+        "address": "Castello, 4196, 30122 Venezia VE, Italy",
+        "lat": "45.4338669",
+        "lng": "12.3399006"
+    },
+    {
+        "name": "Hotel Cala Di Volpe",
+        "address": "Costa Smeralda, 07020 Porto Cervo, OT, Italy",
+        "lat": "41.0902363",
+        "lng": "9.5387878"
+    }
+]
